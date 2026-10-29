@@ -64,5 +64,160 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-minia2a-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://minia2a.uk/
+minia2a.uk operates an open, permissionless marketplace that enables AI agents to discover, call, and pay for APIs using USDC on Base via the x402 payment protocol. The platform requires no accounts, KYC, or API keys; agents receive five free trial calls per signed wallet and then pay per call directly. It is run by an independent, pseudonymous team and leverages autonomous AI agents for indexing, documentation, and monitoring. All payments are cryptographically signed receipts, and the service provides live metrics, a transparent fee structure (5% platform fee, 0% through 2026), and a public API reference.
+
+**Areas:** Company · Payments · AI · Marketplace · Blockchain · Micropayments
+
+## minia2a-uk on APIs.io
+
+Everything profiled for minia2a-uk is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/minia2a-uk/](https://apis.io/providers/minia2a-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- [minia2a-uk AI API](https://apis.io/apis/minia2a-uk/minia2a-uk-ai-api/) — The ai API from minia2a-uk — 53 operation(s) for ai.
+- [minia2a-uk Compliance API](https://apis.io/apis/minia2a-uk/minia2a-uk-compliance-api/) — The compliance API from minia2a-uk — 1 operation(s) for compliance.
+- [minia2a-uk Contract Audit API](https://apis.io/apis/minia2a-uk/minia2a-uk-contract-audit-api/) — The contract-audit API from minia2a-uk — 11 operation(s) for contract-audit.
+- [minia2a-uk Crypto API](https://apis.io/apis/minia2a-uk/minia2a-uk-crypto-api/) — The crypto API from minia2a-uk — 72 operation(s) for crypto.
+- [minia2a-uk Data API](https://apis.io/apis/minia2a-uk/minia2a-uk-data-api/) — The data API from minia2a-uk — 53 operation(s) for data.
+- [minia2a-uk Deepseek API](https://apis.io/apis/minia2a-uk/minia2a-uk-deepseek-api/) — The deepseek API from minia2a-uk — 2 operation(s) for deepseek.
+- [minia2a-uk Defi API](https://apis.io/apis/minia2a-uk/minia2a-uk-defi-api/) — The defi API from minia2a-uk — 37 operation(s) for defi.
+- [minia2a-uk Dev API](https://apis.io/apis/minia2a-uk/minia2a-uk-dev-api/) — The dev API from minia2a-uk — 12 operation(s) for dev.
+- [minia2a-uk Docs API](https://apis.io/apis/minia2a-uk/minia2a-uk-docs-api/) — The docs API from minia2a-uk — 1 operation(s) for docs.
+- [minia2a-uk External API](https://apis.io/apis/minia2a-uk/minia2a-uk-external-api-api/) — The external-api API from minia2a-uk — 2 operation(s) for external-api.
+- [minia2a-uk Finance API](https://apis.io/apis/minia2a-uk/minia2a-uk-finance-api/) — The finance API from minia2a-uk — 31 operation(s) for finance.
+- [minia2a-uk Games API](https://apis.io/apis/minia2a-uk/minia2a-uk-games-api/) — The games API from minia2a-uk — 14 operation(s) for games.
+- [minia2a-uk Identity API](https://apis.io/apis/minia2a-uk/minia2a-uk-identity-api/) — The identity API from minia2a-uk — 11 operation(s) for identity.
+- [minia2a-uk Infra API](https://apis.io/apis/minia2a-uk/minia2a-uk-infra-api/) — The infra API from minia2a-uk — 11 operation(s) for infra.
+- [minia2a-uk Messaging API](https://apis.io/apis/minia2a-uk/minia2a-uk-messaging-api/) — The messaging API from minia2a-uk — 1 operation(s) for messaging.
+- [minia2a-uk Network API](https://apis.io/apis/minia2a-uk/minia2a-uk-network-api/) — The network API from minia2a-uk — 10 operation(s) for network.
+- [minia2a-uk Platform API](https://apis.io/apis/minia2a-uk/minia2a-uk-platform-api/) — Registration, publishing, catalog and stats
+- [minia2a-uk Premium API](https://apis.io/apis/minia2a-uk/minia2a-uk-premium-api/) — The premium API from minia2a-uk — 60 operation(s) for premium.
+- [minia2a-uk Pure API](https://apis.io/apis/minia2a-uk/minia2a-uk-pure-api/) — The pure API from minia2a-uk — 6 operation(s) for pure.
+- [minia2a-uk Security API](https://apis.io/apis/minia2a-uk/minia2a-uk-security-api/) — The security API from minia2a-uk — 18 operation(s) for security.
+- [minia2a-uk Social API](https://apis.io/apis/minia2a-uk/minia2a-uk-social-api/) — The social API from minia2a-uk — 1 operation(s) for social.
+- [minia2a-uk Specialized API](https://apis.io/apis/minia2a-uk/minia2a-uk-specialized-api/) — The specialized API from minia2a-uk — 2 operation(s) for specialized.
+- [minia2a-uk Text API](https://apis.io/apis/minia2a-uk/minia2a-uk-text-api/) — The text API from minia2a-uk — 63 operation(s) for text.
+- [minia2a-uk Tools API](https://apis.io/apis/minia2a-uk/minia2a-uk-tools-api/) — The tools API from minia2a-uk — 1186 operation(s) for tools.
+- [minia2a-uk Utility API](https://apis.io/apis/minia2a-uk/minia2a-uk-utility-api/) — The utility API from minia2a-uk — 79 operation(s) for utility.
+- [minia2a-uk Web API](https://apis.io/apis/minia2a-uk/minia2a-uk-web-api/) — The web API from minia2a-uk — 32 operation(s) for web.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Minia2A Uk Agentic Access](https://apis.io/agentic-access/minia2a-uk/minia2a-uk-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Minia2A Uk Openapi Overlay](https://apis.io/overlays/minia2a-uk/minia2a-uk-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [minia2a-uk API Rules](https://apis.io/rules/minia2a-uk/minia2a-uk-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Minia2A Uk Authentication](https://apis.io/security/minia2a-uk/minia2a-uk-authentication/)
+- [Minia2A Uk Domain Security](https://apis.io/security/minia2a-uk/minia2a-uk-domain-security/)
+- [Minia2A Uk Vulnerability Disclosure](https://apis.io/security/minia2a-uk/minia2a-uk-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Minia2A Uk Scopes](https://apis.io/scopes/minia2a-uk/minia2a-uk-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Minia2A Uk Plans Pricing](https://apis.io/plans/minia2a-uk/minia2a-uk-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Minia2A Uk Rate Limits](https://apis.io/rate-limits/minia2a-uk/minia2a-uk-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://minia2a.uk/)
+- [Documentation](https://minia2a.uk/docs.html)
+- [Getting started](https://minia2a.uk/agent-quickstart)
+- [API reference](https://minia2a.uk/docs.html)
+- [Pricing](https://minia2a.uk/fund.html)
+- [Sign up](https://minia2a.uk/api/v1/register-simple)
+- [Support](https://minia2a.uk/risk.html)
+- [Blog](https://minia2a.uk/blog)
+- [Trust centre](https://minia2a.uk/trust)
+- [Terms of service](https://minia2a.uk/terms.html)
+- [Privacy policy](https://minia2a.uk/privacy.html)
+- [GitHub](https://github.com/minia2auk)
+- [Status](https://minia2a.uk/status)
+
+## API Evangelist rating
+
+**Kin Score 57.2** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 39.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 68.3 |
+| Access clarity | 52.6 |
+
+**Agent readiness 48.8** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 38.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/minia2a-uk/](https://apis.io/providers/minia2a-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for minia2a-uk: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/minia2a-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
